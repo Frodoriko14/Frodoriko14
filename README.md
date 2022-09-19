@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+  #### 🕹 I'm a software developer
+  
+##### 🧑 I did DAM (Multiplatform apllications development) in Institut Montilivi
 ##### 🌱 I’m currently learning CyberSecurity
 ##### 🏫 I'm studing in Institut Montilivi
 ##### 📫 How to reach me: a2006262@institutmontilivi.cat
