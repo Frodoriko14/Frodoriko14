@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm César 👋
   #### 🕹 I'm a software developer
   
 ##### 🧑 I did DAM (Multiplatform apllications development) in Institut Montilivi
