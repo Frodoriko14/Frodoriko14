@@ -4,7 +4,7 @@
 ##### 🧑 I did DAM (Multiplatform apllications development) in Institut Montilivi
 ##### 🌱 I’m currently learning CyberSecurity
 ##### 🏫 I'm studing in Institut Montilivi
-##### 📫 How to reach me: a2006262@institutmontilivi.cat
+##### 📫 How to reach me: cesarortuno3@gmail.com
 <!--
 **Frodoriko14/Frodoriko14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
