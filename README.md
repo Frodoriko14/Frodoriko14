@@ -12,6 +12,7 @@
     <img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
   </a>
 </p>
+
 ##### 🏠 [Check my personal Webside](https://master.d2bbn5y0bs5hbm.amplifyapp.com)
 <!--
 **Frodoriko14/Frodoriko14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
